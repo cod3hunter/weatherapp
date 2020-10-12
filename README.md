@@ -1,6 +1,6 @@
 ## WeatherApp 
 
-I'm making an app per day. This is APP #1  
+I'm making one app a day for 30 days. This is APP #1  
 - [React Native](https://reactnative.dev/)
 - [React Native Elements](https://reactnativeelements.com/)
 
