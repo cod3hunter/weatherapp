@@ -1,5 +1,5 @@
 import React from 'react';
-import {ThemeProvider, Text} from 'react-native-elements';
+import {ThemeProvider} from 'react-native-elements';
 import styled from 'styled-components/native';
 import HomeScreen from './modules/Home/HomeScreen';
 
